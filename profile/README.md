@@ -1,12 +1,17 @@
 ## Hi there 👋 We are Genuine labs - Cosmos contributors
 
-<!--
+# Introduction about the team
+Currently, our team has 3 members: [Nguyen](https://github.com/expertdicer), [Minh](https://github.com/phamminh0811), [Dong](https://github.com/DongLieu)
 
-**Here are some ideas to get you started:**
+We are ex-notional labs members and have respectable experiences in Cosmos Ecosystem and Cosmos stack. We aims to help Terra Classic thrives and gains back the long-lost importances in the Cosmos Ecosystem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our experiences:
+
+Develop Fee-abs module.
+Persitence audit.
+Contribute to Osmosis, Quicksilver, Stride and Composable.
+Contribute to core repos like Gravity-Bridge, IBC-Go, Cosmos-SDK.
+...
+
+
+
